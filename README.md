@@ -1,0 +1,2 @@
+# gtext
+Simple text editor
